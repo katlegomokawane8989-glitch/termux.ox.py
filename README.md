@@ -1,5 +1,5 @@
-# this usin my Bot
-# Hi there, I'm Nisan! 👋
+# hey there..am ᏞᏫᏁᎬᏞᎽ
+# lonely bot v2 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NISANPRO&color=blue)
 
