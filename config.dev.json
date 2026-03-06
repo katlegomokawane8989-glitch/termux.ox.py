@@ -35,28 +35,28 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61567840496026"
+    "61584608305717"
   ],
   "nisanBot": [
-    "8672850822768289"
+    "61584608305717"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61567840496026"
+      "61584608305717"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝙻𝚒𝚜𝚊-𝙶𝚘𝚊𝚝𝚋𝚘𝚝-ᴠ2",
+  "nickNameBot": "╭───『💙Lonely🪽Bot💙』───╮",
   "prefix": "-",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "NISSAN",
+  "authorName": "Lonely",
   "facebook2": "https://www.facebook.com/61567840496026",
   "facebook": "https://www.facebook.com/61567840496026",
-  "email": "niclisa108@yahoo.com",
+  "email": "katlegomokawane8989@gmail.com",
   "replit": "https://replit.com/@mdnisanofficial",
   "github": "https://github.com/NISANPRO",
   "insta": "@nisanhossein",
@@ -69,7 +69,7 @@
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when youf set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
   },
-  "timeZone": "Asia/Dhaka",
+  "timeZone": "Madibogo/CapeTown",
   "credentials": {
     "gmailAccount": {
       "email": "",
